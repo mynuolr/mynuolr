@@ -1,7 +1,7 @@
-### Hi there 👋
-
-![](https://github.com/mynuolr/mynuolr/blob/master/8f5460cf3bc79f3d5f80664eb4a1cd11738b29d0.gif)
-
+### Hi 想吃桃子吗 👋
+<p align="center">
+  <img src="https://github.com/mynuolr/mynuolr/blob/master/8f5460cf3bc79f3d5f80664eb4a1cd11738b29d0.gif">
+</p>
 <!--
 **mynuolr/mynuolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
