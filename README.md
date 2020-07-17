@@ -3,7 +3,7 @@
   <img src="https://github.com/mynuolr/mynuolr/blob/master/QIESWAZR%5DKO6MWD_QDNH8CO.jpg">
 </p>
 <p align="center">
-  <img  style="width: 100%;"  src="https://github.com/mynuolr/mynuolr/blob/master/987cf61e3a292df563b96d68b3315c6035a873ec.gif">
+  <img  width="100%"  src="https://github.com/mynuolr/mynuolr/blob/master/987cf61e3a292df563b96d68b3315c6035a873ec.gif">
 </p>
 <!--
 **mynuolr/mynuolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
