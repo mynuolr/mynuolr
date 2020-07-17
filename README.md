@@ -1,6 +1,9 @@
 ### Hi 想吃桃子吗 👋
 <p align="center">
-  <img src="https://github.com/mynuolr/mynuolr/blob/master/8f5460cf3bc79f3d5f80664eb4a1cd11738b29d0.gif">
+  <img src="https://github.com/mynuolr/mynuolr/blob/master/QIESWAZR%5DKO6MWD_QDNH8CO.jpg">
+</p>
+<p align="center">
+  <img src="https://github.com/mynuolr/mynuolr/blob/master/987cf61e3a292df563b96d68b3315c6035a873ec.gif">
 </p>
 <!--
 **mynuolr/mynuolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
